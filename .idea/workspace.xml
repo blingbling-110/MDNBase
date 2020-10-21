@@ -3,8 +3,20 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="124628c7-358c-4e1c-a9d6-3867917bd034" name="默认的" comment="" />
+    <list default="true" id="124628c7-358c-4e1c-a9d6-3867917bd034" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,11 +70,39 @@
       <updated>1603195390936</updated>
       <workItem from="1603195392180" duration="8361000" />
       <workItem from="1603211194329" duration="5962000" />
-      <workItem from="1603276991337" duration="6993000" />
+      <workItem from="1603276991337" duration="8103000" />
+      <workItem from="1603292609724" duration="116000" />
+      <workItem from="1603292981505" duration="100000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1113" y="126" width="1266" height="1170" key="DiffContextDialog" timestamp="1603292725463">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1113" y="126" width="1266" height="1170" key="DiffContextDialog/0.0.3440.1400/-1920.361.1920.1040@0.0.3440.1400" timestamp="1603292725463" />
+    <state x="1526" y="451" key="FileChooserDialogImpl" timestamp="1603291348413">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1526" y="451" key="FileChooserDialogImpl/0.0.3440.1400/-1920.361.1920.1040@0.0.3440.1400" timestamp="1603291348413" />
+    <state x="1338" y="443" key="Vcs.Push.Dialog.v2" timestamp="1603292629892">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1338" y="443" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-1920.361.1920.1040@0.0.3440.1400" timestamp="1603292629892" />
   </component>
 </project>

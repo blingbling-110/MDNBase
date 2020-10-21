@@ -9,6 +9,9 @@ let username;
 
 function setUsername() {
     username = prompt('请输入您的用户名：');
+    if (!username) {
+        setUsername();
+    }
     localStorage.setItem('username', username);
 }
 
