@@ -1,0 +1,63 @@
+html {
+    /* px 表示 “像素（pixels）”: 基础字号为 10 像素 */
+    font-size: 10px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    background-image: url("../images/sensual-model-on-high-heels.jpg");
+    background-size: contain;
+    background-repeat: repeat;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #F13B96;
+    text-shadow: 3px 3px 1px black;
+}
+
+a, p, li {
+    font-size: 21px;
+    /* line-height 后而可以跟不同的参数，如果是数字，就是当前字体大小乘上数字 */
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 1500px;
+    margin: 0 auto;
+    background-color: lemonchiffon;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    opacity:0.9;
+    filter:alpha(opacity=90); /* IE8 及其更早版本 */
+}
+
+img, button {
+    display: block;
+    margin: 20px auto;
+}
+
+/* 创建两个相等的列 */
+.column {
+    float: left;
+    width: 50%;
+}
+
+/* 列后清除浮动 */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* 响应式布局 - 小于 900 px 时改为上下布局 */
+@media screen and (max-width: 1200px) {
+    .column {
+        width: 100%;
+    }
+}
+
+.center {
+    text-align: center;
+}
